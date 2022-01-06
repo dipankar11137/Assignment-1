@@ -9,11 +9,13 @@ body{
 }
 .half-width{
     width: 50%;
-    padding: 5%;
+    padding: 80px;
 }
 .half-width img{
     width: 70%;
     height: 90%;
+    border-radius: 20px;
+
     
 }
 .name-style{
@@ -32,7 +34,7 @@ body{
 .style-of-link{
     text-decoration: none;
     padding: 5px;
-    background-color: rgba(252, 48, 12, 0.829);
+   background-color: rgb(246, 103, 0);
     color: white;
     text-align: center;
     font-style: 700px;
@@ -66,5 +68,30 @@ body{
 #box-background-color3{
     background-color: rgb(241, 185, 243);
 }
+.jokers img{
+    padding: 10px;
+    margin-left: 40%;
+    border-radius: 60px;
+}
+.background-color-section{
+    background-color: rgb(236, 221, 236);
+}
+footer{
+  
+    background-color:#000000;
+    padding:20px 0 10px;
+    font-size:15px;
+    line-height:24px;
+    color:#737373;
+    text-align: center;
+    
+     
+    
+}
+#italic-font{
+   font-family: 'Times New Roman', Times, serif;
+   font-style: italic;
+}
+
 
 
