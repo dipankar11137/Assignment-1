@@ -22,7 +22,10 @@ body{
     font-style: 700px;
     font-size: 60px;
     padding: 10px;
-    border-left: 7px solid rgb(173, 82, 7);
+    /*border-left: 7px solid rgb(173, 82, 7);*/
+   border-left: 7px solid red;
+   
+  
 }
 .name-size{
     font-style: 700px;
